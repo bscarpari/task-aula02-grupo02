@@ -146,7 +146,7 @@ Divirta-se explorando o universo fascinante de "Interestelar"!
 
 ### Trailer
 
-[![Assista ao trailer](./images/O%20Contador.jpg)](https://www.youtube.com/watch?v=JwAzOD1J51o)
+[![Assista ao trailer](./images/ocontador3.jpg)](https://www.youtube.com/watch?v=JwAzOD1J51o)
 
 ## Pica-Pau: O Filme
 
