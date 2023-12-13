@@ -84,11 +84,15 @@ Este arquivo contém informações sobre o fluxo de "branches". Todos os nossos 
 
 ## One Piece
 
-#### Sinopse
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8254d2be-461b-4f09-a664-cf161192e0b7/d60prj8-c99adb56-3a25-40a8-9388-59f4018982dd.png/v1/fit/w_800,h_300,q_70,strp/one_piece_wego__banner_by_luffyzorosanji_d60prj8-414w-2x.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzAwIiwicGF0aCI6IlwvZlwvODI1NGQyYmUtNDYxYi00ZjA5LWE2NjQtY2YxNjExOTJlMGI3XC9kNjBwcmo4LWM5OWFkYjU2LTNhMjUtNDBhOC05Mzg4LTU5ZjQwMTg5ODJkZC5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.Ahaiu_nfuY80fc-FhOVK0ggdeeYxRYYuPO22G5l_-VE" alt="Imagem do One Piece" >
 
-A trama segue Monkey D. Luffy, um jovem que tem a ambição de se tornar o Rei dos Piratas - aquele que consegue todas as coisas do mundo. Para isso, ele precisa encontrar o One Piece, o tesouro lendário deixado por Gol D. Roger, primeiro rei da pirataria.
+### Sinopse
 
-[Link para ver one piece NetFlix](https://www.netflix.com/watch/80107105?trackId=255824129)
+> A trama segue Monkey D. Luffy, um jovem que tem a ambição de se tornar o Rei dos Piratas - aquele que consegue todas as coisas do mundo. Para isso, ele precisa encontrar o One Piece, o tesouro lendário deixado por Gol D. Roger, primeiro rei da pirataria.
+
+### Como Assistir
+
+O Anime "One Piece" está disponível em várias plataformas de streaming, como [Netflix](https://www.netflix.com/watch/80107105) e [HBO Max](https://play.hbomax.com/page/urn:hbo:page:GYmhnMggKRBymmwEAAADe:type:series).
 
 ## Zelda
 
@@ -96,7 +100,7 @@ A trama segue Monkey D. Luffy, um jovem que tem a ambição de se tornar o Rei d
 
 ### Sinopse
 
-"The Legend of Zelda" é uma renomada franquia de jogos eletrônicos desenvolvida pela Nintendo. O primeiro jogo da série, "The Legend of Zelda", foi lançado em 1986 para o console Nintendo Entertainment System (NES). Desde então, a série cresceu e se tornou uma das mais icônicas e amadas na indústria de videogames.
+> "The Legend of Zelda" é uma renomada franquia de jogos eletrônicos desenvolvida pela Nintendo. O primeiro jogo da série, "The Legend of Zelda", foi lançado em 1986 para o console Nintendo Entertainment System (NES). Desde então, a série cresceu e se tornou uma das mais icônicas e amadas na indústria de videogames.
 
 **Enredo e Personagens Principais:**
 O enredo da série geralmente gira em torno de um herói chamado Link, que é frequentemente acompanhado pela princesa Zelda e um antagonista recorrente chamado Ganon. A história muitas vezes envolve a Triforce, um artefato divino composto por três partes: a Triforce da Coragem (Link), a Triforce da Sabedoria (Zelda) e a Triforce da Força (Ganon).
@@ -121,9 +125,8 @@ Zelda não é apenas uma franquia de sucesso comercial, mas também tem um impac
 
 ### Sinopse
 
-"Interestelar" é um épico de ficção científica dirigido por Christopher Nolan. O filme, lançado em 2014, apresenta uma história cativante sobre a exploração espacial em um futuro distante. Com uma mistura envolvente de ciência, drama e ação, "Interestelar" segue a jornada de um grupo de astronautas em uma missão desesperada para encontrar um novo lar para a humanidade, já que a Terra enfrenta uma crise ambiental catastrófica.
-
-Ao explorar buracos de minhoca e enfrentar fenômenos cósmicos, os personagens principais embarcam em uma jornada intergaláctica que desafia não apenas as leis da física, mas também os limites emocionais e éticos. A narrativa intricada e os visuais deslumbrantes tornam "Interestelar" uma experiência cinematográfica única.
+> "Interestelar" é um épico de ficção científica dirigido por Christopher Nolan. O filme, lançado em 2014, apresenta uma história cativante sobre a exploração espacial em um futuro distante. Com uma mistura envolvente de ciência, drama e ação, "Interestelar" segue a jornada de um grupo de astronautas em uma missão desesperada para encontrar um novo lar para a humanidade, já que a Terra enfrenta uma crise ambiental catastrófica.
+> Ao explorar buracos de minhoca e enfrentar fenômenos cósmicos, os personagens principais embarcam em uma jornada intergaláctica que desafia não apenas as leis da física, mas também os limites emocionais e éticos. A narrativa intricada e os visuais deslumbrantes tornam "Interestelar" uma experiência cinematográfica única.
 
 ### Trailer
 
@@ -166,8 +169,8 @@ Divirta-se explorando o universo fascinante de "Pica-Pau"!
 <img src="https://th.bing.com/th/id/OIP.cVj9Ji7YmOS-nLg5FB0UuwHaHW?rs=1&pid=ImgDetMain" alt="Capitão Fantástico" width="100%" height="auto">
 
 ### Sinopse
-> "Capitão Fantástico" ("Captain Fantastic") é um filme de drama e comédia dramática lançado em 2016, dirigido e escrito por Matt Ross. O filme recebeu críticas positivas por sua originalidade, performances sólidas e abordagem única aos temas da paternidade e estilo de vida alternativo.
 
+> "Capitão Fantástico" ("Captain Fantastic") é um filme de drama e comédia dramática lançado em 2016, dirigido e escrito por Matt Ross. O filme recebeu críticas positivas por sua originalidade, performances sólidas e abordagem única aos temas da paternidade e estilo de vida alternativo.
 
 # Tarefas
 
