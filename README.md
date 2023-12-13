@@ -172,6 +172,10 @@ Divirta-se explorando o universo fascinante de "Pica-Pau"!
 
 > "Capitão Fantástico" ("Captain Fantastic") é um filme de drama e comédia dramática lançado em 2016, dirigido e escrito por Matt Ross. O filme recebeu críticas positivas por sua originalidade, performances sólidas e abordagem única aos temas da paternidade e estilo de vida alternativo.
 
+### Trailer
+
+[Assista o trailer aqui](https://www.youtube.com/watch?v=D1kH4OMIOMc&pp=ygURY2FwdGFpbiBmYW50YXN0aWM%3D)
+
 # Tarefas
 
 - [x] Criou os arquivos iniciais - Bruno Scarpari
