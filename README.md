@@ -1,17 +1,10 @@
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
   <h3 align="center">Tarefa 02 - GIT (Vem ser DBC)</h3>
@@ -30,8 +23,6 @@
   </p>
 </div>
 
-# Sobre
-
 ## Integrantes
 
 - Bruno Scarpari
@@ -40,6 +31,18 @@
 - Kevin Matos
 - Raphael Baere
 - Rodrigo Carvalho
+
+# Sobre
+
+## One Piece
+
+### sinopse
+
+A trama segue Monkey D. Luffy, um jovem que tem a ambição de se tornar o Rei dos Piratas - aquele que consegue todas as coisas do mundo. Para isso, ele precisa encontrar o One Piece, o tesouro lendário deixado por Gol D. Roger, primeiro rei da pirataria.
+
+[Link para ver one piece NetFlix](https://www.netflix.com/watch/80107105?trackId=255824129)
+
+##
 
 ## Tarefas
 
