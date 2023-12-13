@@ -124,6 +124,15 @@ O filme "Interestelar" está disponível em várias plataformas de streaming, co
 
 Divirta-se explorando o universo fascinante de "Interestelar"!
 
+## O  Contador
+
+### Sinopse
+
+>Christian Wolff (Ben Affleck) é um gênio da matemática que tem mais afinidade com números do que com pessoas. Por trás da fachada de um escritório de contador certificado de uma pequena cidade, ele trabalha como contador autônomo para algumas das organizações criminosas mais perigosas do mundo. Depois que a Divisão Anticrime do Ministério da Fazenda, sob o comando de Ray King (J. K. Simmons), começa a fechar o cerco, Christian assume um cliente honesto: uma empresa de robótica de última geração, na qual uma escriturária da contabilidade (Anna Kendrick) descobre uma discrepância que envolve milhões de dólares. Mas à medida que Christian audita os livros e chega mais perto da verdade, é a contabilidade dos corpos que começa a aumentar.
+
+### Trailer
+
+[![Assista ao trailer](./images/O%20Contador.jpg)](https://www.youtube.com/watch?v=JwAzOD1J51o)
 
 
 ## Tarefas
@@ -131,8 +140,8 @@ Divirta-se explorando o universo fascinante de "Interestelar"!
 - [x] Criou os arquivos iniciais -  Bruno 
 - [x] Criou o primeiro conteúdo (One Piece) - Kevin
 - [x] Criou o segundo conteúdo (Zelda) - Rodrigo Carvalho
-- [x] Criou o terceiro conteúdo (Interestelar) - Raphael Baere 
-
+- [x] Criou o terceiro conteúdo (Interestelar) - Raphael Baere
+- [x] Criou o quarto conteúdo (O Contador) - Janier Silva 
 
 ## License
 
