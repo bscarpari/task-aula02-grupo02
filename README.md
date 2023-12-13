@@ -134,6 +134,21 @@ Divirta-se explorando o universo fascinante de "Interestelar"!
 
 [![Assista ao trailer](./images/O%20Contador.jpg)](https://www.youtube.com/watch?v=JwAzOD1J51o)
 
+## Pica-Pau: O Filme
+
+### Sinopse
+
+>"O filme "Pica-Pau", lançado em 2017, é uma comédia familiar que traz de volta o travesso e icônico personagem de desenhos animados em uma aventura totalmente nova. Na trama, Lance Walters, interpretado por Timothy Omundson, decide construir a casa dos seus sonhos na floresta, mas acaba entrando em conflito com o enérgico Pica-Pau, que já chama aquele lugar de lar. O confronto entre o homem e o pássaro leva a uma série de situações hilárias e caóticas, envolvendo também a namorada de Lance, interpretada por Thaila Ayala. Com muitas trapalhadas, perseguições e momentos divertidos, o filme promete entreter não apenas os fãs do Pica-Pau dos desenhos clássicos, mas também uma nova geração de espectadores."
+
+### Trailer
+
+[![Assista ao trailer](https://omundoautista.uai.com.br/wp-content/uploads/sites/34/2023/06/20170929-01-pica-pau-papo-de-cinema-750x482-1.png)](https://www.youtube.com/watch?v=JZcPm3qAqJA)
+
+### Como Assistir
+
+O filme "Pica-Pau" está disponível em várias plataformas de streaming, como [Netflix](https://www.netflix.com/br/title/80225034) e [Amazon Prime Video](https://globoplay.globo.com/pica-pau-o-filme/t/BSyLDDs2KW/).
+
+Divirta-se explorando o universo fascinante de "Pica-Pau"!
 
 ## Tarefas
 
@@ -142,6 +157,7 @@ Divirta-se explorando o universo fascinante de "Interestelar"!
 - [x] Criou o segundo conteúdo (Zelda) - Rodrigo Carvalho
 - [x] Criou o terceiro conteúdo (Interestelar) - Raphael Baere
 - [x] Criou o quarto conteúdo (O Contador) - Janier Silva 
+- [x] Criou o quinto conteúdo (Pica-Pau: O Filme) - Gabriel Sales 
 
 ## License
 
