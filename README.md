@@ -103,12 +103,35 @@ The Legend of Zelda: Majora's Mask (2000): Conhecido por sua atmosfera única e 
 **Impacto Cultural:**
 Zelda não é apenas uma franquia de sucesso comercial, mas também tem um impacto cultural significativo, influenciando gerações de jogadores e outros criadores de jogos. A trilha sonora icônica, os quebra-cabeças inteligentes e os mundos ricos em história continuam a cativar jogadores ao redor do mundo.
 
+# Interestelar
+
+![Interestelar Poster](https://i0.wp.com/jornal.usp.br/wp-content/uploads/2023/04/Interstellar_resized.png?fit=800%2C420&ssl=1)
+
+## Sinopse
+
+"Interestelar" é um épico de ficção científica dirigido por Christopher Nolan. O filme, lançado em 2014, apresenta uma história cativante sobre a exploração espacial em um futuro distante. Com uma mistura envolvente de ciência, drama e ação, "Interestelar" segue a jornada de um grupo de astronautas em uma missão desesperada para encontrar um novo lar para a humanidade, já que a Terra enfrenta uma crise ambiental catastrófica.
+
+Ao explorar buracos de minhoca e enfrentar fenômenos cósmicos, os personagens principais embarcam em uma jornada intergaláctica que desafia não apenas as leis da física, mas também os limites emocionais e éticos. A narrativa intricada e os visuais deslumbrantes tornam "Interestelar" uma experiência cinematográfica única.
+
+## Trailer
+
+[![Assista ao trailer](https://olhardigital.com.br/wp-content/uploads/2023/07/this-is-how-interstellar-originally-ended_9e59.1280.webp)](https://www.youtube.com/watch?v=hHBsKHVLAYc)
+
+
+## Como Assistir
+
+O filme "Interestelar" está disponível em várias plataformas de streaming, como [HBO Max](https://play.hbomax.com/privacy/consent) e [Amazon Prime Video](https://www.primevideo.com/dp/amzn1.dv.gti.cb9b98b3-b3ad-4a21-9da2-7c8f1a7c9c4c?autoplay=0&ref_=atv_cf_strg_wb).
+
+Divirta-se explorando o universo fascinante de "Interestelar"!
+
+
+
 ## Tarefas
 
 - [x] Criou os arquivos iniciais -  Bruno 
 - [x] Criou o primeiro conteúdo (One Piece) - Kevin
 - [x] Criou o segundo conteúdo (Zelda) - Rodrigo Carvalho
-- [] 
+- [x] Criou o terceiro conteúdo (Interestelar) - Raphael Baere 
 
 
 ## License
